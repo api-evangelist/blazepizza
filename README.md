@@ -64,5 +64,116 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Blazepizza is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://equityzen.com/company/blazepizza
+Blaze Pizza is a fast‑casual pizza chain founded in 2011 in Pasadena, California. It offers customizable artisan‑style pizzas made to order with a 24‑hour fermented dough, plus salads, desserts, drinks, and vegan options. The brand operates hundreds of locations across the United States and internationally, emphasizing quick service, fresh ingredients, and a modern digital ordering experience through its website and mobile apps. Blaze Pizza also provides franchising opportunities and community initiatives such as the Folds of Honor fundraisers.
+
+**Areas:** Company · Fast Casual · Pizza · Restaurant · Franchise
+
+## Blazepizza on APIs.io
+
+Everything profiled for Blazepizza is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/blazepizza/](https://apis.io/providers/blazepizza/)** — or go straight to one of the APIs or properties below.
+
+### APIs (5)
+
+- [Blazepizza Blazepizza API](https://apis.io/apis/blazepizza/blazepizza-blazepizza-api-api/) — The Blazepizza API API from Blazepizza — 1 operation(s) for blazepizza api.
+- [Blazepizza Cat Pic API](https://apis.io/apis/blazepizza/blazepizza-cat-pic-api/) — The Cat Pic API from Blazepizza — 1 operation(s) for cat pic.
+- [Blazepizza Foo API](https://apis.io/apis/blazepizza/blazepizza-foo-api/) — The Foo API from Blazepizza — 1 operation(s) for foo.
+- [Blazepizza HTTP API](https://apis.io/apis/blazepizza/blazepizza-http-api/) — The Http API from Blazepizza — 1 operation(s) for http.
+- [Blazepizza Image API](https://apis.io/apis/blazepizza/blazepizza-image-api/) — The Image API from Blazepizza — 1 operation(s) for image.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Blazepizza Webhooks](https://apis.io/asyncapis/blazepizza/blazepizza-webhooks/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [GetResponse](https://apis.io/schemas/blazepizza/blazepizza-get-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Blazepizza Context](https://apis.io/jsonld/blazepizza/blazepizza-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Blazepizza API Rules](https://apis.io/rules/blazepizza/blazepizza-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Blazepizza Authentication](https://apis.io/security/blazepizza/blazepizza-authentication/)
+- [Blazepizza Domain Security](https://apis.io/security/blazepizza/blazepizza-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.blazepizza.com)
+- [Documentation](https://www.blazepizza.com/about-us)
+- [Getting started](https://docs.thanx.com/consumer/best-practices/onboarding-authentication)
+- [Terms of service](https://www.blazepizza.com/marketing-terms-conditions)
+- [Privacy policy](https://www.blazepizza.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 33.8** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 25.6 |
+| Contract governance | 22.0 |
+| Operational transparency | 23.7 |
+| Developer ergonomics | 50.0 |
+| Access clarity | 21.1 |
+
+**Agent readiness 22.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | yes |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/blazepizza/](https://apis.io/providers/blazepizza/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Blazepizza: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/blazepizza/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
